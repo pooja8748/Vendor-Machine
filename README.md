@@ -10,4 +10,5 @@ Requirments:
 4. vending machine
 5. Item type
 6. vending machine type
-7. 
+
+Coin class 
